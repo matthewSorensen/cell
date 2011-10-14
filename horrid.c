@@ -5,6 +5,6 @@ int main(int c,char**v){
   while(--i>0)
     w[i]=i==75;
   while(i++<40 & puts(""))
-    for(p=c=0;c<150;putchar(32+((p=q)&&1)))                           
-      w[c]=r&(p?240:15)&((q=w[c])?204:51)&(w[++c]?170:85);
+    for(p=c=0;c<150;putchar(32+(p=q)))                           
+      w[c]=r&(p?240:15)&((q=w[c])?204:51)&(w[++c]?170:85)&&1;
 }
